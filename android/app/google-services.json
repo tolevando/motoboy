@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "3218048716",
+    "project_id": "tolevando",
+    "storage_bucket": "tolevando.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3218048716:android:7c09aa45f8461b3545a469",
+        "android_client_info": {
+          "package_name": "br.com.tolevando.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3218048716-lrkgosge6n79gcp1ct3j934rcp9bojci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhq4akTwHLSSXUNT_cCsN-1Gf-7JxnSIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3218048716-lrkgosge6n79gcp1ct3j934rcp9bojci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3218048716-7hntb1ddhmoitbvpo7a2v41g9653h97c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.tolevando.estabelecimento"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3218048716:android:f50cf76900cc296145a469",
+        "android_client_info": {
+          "package_name": "br.com.tolevando.estabelecimento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3218048716-lrkgosge6n79gcp1ct3j934rcp9bojci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhq4akTwHLSSXUNT_cCsN-1Gf-7JxnSIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3218048716-lrkgosge6n79gcp1ct3j934rcp9bojci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3218048716-7hntb1ddhmoitbvpo7a2v41g9653h97c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.tolevando.estabelecimento"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3218048716:android:6338b70c50b74b6545a469",
+        "android_client_info": {
+          "package_name": "br.com.tolevando.motoboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3218048716-lrkgosge6n79gcp1ct3j934rcp9bojci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhq4akTwHLSSXUNT_cCsN-1Gf-7JxnSIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3218048716-lrkgosge6n79gcp1ct3j934rcp9bojci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3218048716-7hntb1ddhmoitbvpo7a2v41g9653h97c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.tolevando.estabelecimento"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
